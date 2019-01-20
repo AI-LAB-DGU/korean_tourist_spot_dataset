@@ -1,4 +1,7 @@
 # hierarchical structure of tourist spot dataset-master
+## 개요
+
+* 이 프로그램은 Instagram으로부터 Heterogenoeus Data를 수집하기 위한 것입니다.
 
 ## 필요 사항
 
